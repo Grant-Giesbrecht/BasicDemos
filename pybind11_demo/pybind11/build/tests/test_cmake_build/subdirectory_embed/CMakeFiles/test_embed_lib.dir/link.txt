@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libtest_embed_lib.a CMakeFiles/test_embed_lib.dir/Users/grantgiesbrecht/Documents/Programming/pybind11_demo/pybind11/tests/test_cmake_build/embed.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libtest_embed_lib.a
